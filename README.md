@@ -1,10 +1,3 @@
-¡Claro\! Aquí tienes el `README.md` actualizado.
-
-Lo he redactado manteniendo el tono técnico de un desarrollador que documenta sus avances, reflejando la nueva estructura de carpetas, la integración de la lógica en JavaScript y la expansión del contenido semántico que acabamos de implementar.
-
------
-
-````markdown
 # Proyecto: Impacto de la Inteligencia Artificial en el Mercado Laboral Chileno  
 **Bootcamp Fullstack JavaScript – Módulo Front-End (Integración JavaScript)**
 
@@ -100,7 +93,3 @@ Desarrollado por:
 ## ✔️ Estado del proyecto
 
 🟩 **Completado: Maquetación, Estilos y Lógica JS Básica.**
-
-
-```
-```
