@@ -22,7 +22,7 @@ Este repositorio contiene el desarrollo progresivo de una página web informativ
 
 Se ha añadido el directorio `JS` para la lógica del cliente.
 
-```text
+
 /M2_EP4
 │
 ├── index.html                  # Estructura principal (Actualizada con script y botón)
@@ -39,7 +39,7 @@ Se ha añadido el directorio `JS` para la lógica del cliente.
 │       └── app.js              # Script del botón "Ir Arriba"
 │
 └── README.md                   # Documentación del proyecto
-````
+
 
 -----
 
